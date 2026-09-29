@@ -2,6 +2,8 @@
 
 An interactive redesign of the [EchoGPT: Multi-AI Chat Sidebar](https://chromewebstore.google.com/detail/echogpt-multi-ai-chat-sid/negimdcamohmoheiifgecbjgjepkcfhj) Chrome extension, built as a clickable prototype that runs in the browser.
 
+## Live Site : https://dynamic-alfajores-055c12.netlify.app/
+
 ## Project overview
 
 The page simulates a Chrome window showing a news article. The redesigned extension runs on top of that article, so you can see how it behaves on a real page.
